@@ -15,5 +15,6 @@ int main(int argc, const char * argv[]) {
     a = (double)25/2;
     cout<<a<<endl;
     printf("%f\n",a);
+    cout<<"test git caozuo"<<endl;
     return 0;
 }
